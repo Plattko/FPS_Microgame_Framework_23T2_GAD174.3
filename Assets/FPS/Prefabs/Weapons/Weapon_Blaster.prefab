@@ -93,6 +93,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 6867164317952318004}
+  - {fileID: 2134559050942348433}
   m_Father: {fileID: 2225486910712267856}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -164,7 +165,6 @@ Transform:
   - {fileID: 825220459589154871}
   - {fileID: 8334323006752503713}
   - {fileID: 4917782838448717432}
-  - {fileID: 2134559050942348433}
   - {fileID: 6135943050231390930}
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -182,14 +182,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   WeaponName: Blaster
-  WeaponIcon: {fileID: 21300000, guid: 3c187e19c32c13542ba8a0c1a3a88ece, type: 3}
+  WeaponIcon: {fileID: 21300000, guid: bc84823040008874798fde29da4da3ab, type: 3}
   CrosshairDataDefault:
-    CrosshairSprite: {fileID: 21300000, guid: e881aa18189b12f4e915fc5b14ddc421, type: 3}
-    CrosshairSize: 55
-    CrosshairColor: {r: 1, g: 1, b: 1, a: 0.38431373}
+    CrosshairSprite: {fileID: 21300000, guid: 331e4a3b0ff05854aa524ba0b53ffbec, type: 3}
+    CrosshairSize: 100
+    CrosshairColor: {r: 1, g: 1, b: 1, a: 0.6431373}
   CrosshairDataTargetInSight:
-    CrosshairSprite: {fileID: 21300000, guid: e881aa18189b12f4e915fc5b14ddc421, type: 3}
-    CrosshairSize: 40
+    CrosshairSprite: {fileID: 21300000, guid: 9eeea3e9947b9ec4ebe0da9f92f4cc4e, type: 3}
+    CrosshairSize: 80
     CrosshairColor: {r: 1, g: 0, b: 0, a: 1}
   WeaponRoot: {fileID: 1505447205160222267}
   WeaponMuzzle: {fileID: 8334323006752503713}
@@ -1248,7 +1248,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 2225486910712267856}
+    m_TransformParent: {fileID: 825220459589154871}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 424fb41ba52ac08499e0b862a498243e,
         type: 3}
