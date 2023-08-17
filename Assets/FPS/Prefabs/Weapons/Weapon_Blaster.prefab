@@ -217,14 +217,16 @@ MonoBehaviour:
   AmmoUsedOnStartCharge: 1
   AmmoUsageRateWhileCharging: 2
   WeaponAnimator: {fileID: 0}
-  MuzzleFlashPrefab: {fileID: 748781637555137343, guid: 9f671b22f25370048a18fb1f821294ec,
+  MuzzleFlashPrefab: {fileID: 197808035167031372, guid: 8721291e977d0144f8ca5e700df2a57a,
     type: 3}
   UnparentMuzzleFlash: 0
   ShootSfx: {fileID: 8300000, guid: 53d2238f4c4b2aa4f8e559c7af9e0126, type: 3}
   ChangeWeaponSfx: {fileID: 8300000, guid: 7b83d61917ac1224f942a0609b1221f2, type: 3}
   UseContinuousShootSound: 0
-  ContinuousShootStartSfx: {fileID: 0}
-  ContinuousShootLoopSfx: {fileID: 0}
+  ContinuousShootStartSfx: {fileID: 8300000, guid: f016bc60219013f49b2e6df00004b81f,
+    type: 3}
+  ContinuousShootLoopSfx: {fileID: 8300000, guid: a7fae22399a6e1d448dc0dd2210f1dac,
+    type: 3}
   ContinuousShootEndSfx: {fileID: 0}
 --- !u!114 &8745372878802205896
 MonoBehaviour:
@@ -291,22 +293,22 @@ MonoBehaviour:
     m_NumColorKeys: 2
     m_NumAlphaKeys: 2
   OverheatingMaterial: {fileID: 2100000, guid: 0c55f53a7bb3c354ababeb18b89c2fce, type: 2}
-  CoolingCellsSound: {fileID: 8300000, guid: 93331a7c9fe98494a84f18effb358899, type: 3}
+  CoolingCellsSound: {fileID: 8300000, guid: 7cca80487ffb89c489d2189c09b8156a, type: 3}
   AmmoToVolumeRatioCurve:
     serializedVersion: 2
     m_Curve:
     - serializedVersion: 3
       time: 0
       value: 0
-      inSlope: 1.25
-      outSlope: 1.25
+      inSlope: 0.6476229
+      outSlope: 0.6476229
       tangentMode: 34
       weightedMode: 0
       inWeight: 0
       outWeight: 0.33333334
     - serializedVersion: 3
-      time: 0.8
-      value: 1
+      time: 0.7501953
+      value: 0.48584366
       inSlope: -0.0030681617
       outSlope: -0.0030681617
       tangentMode: 0
@@ -314,10 +316,10 @@ MonoBehaviour:
       inWeight: 0.33333334
       outWeight: 1
     - serializedVersion: 3
-      time: 1
-      value: 1
-      inSlope: 0
-      outSlope: 0
+      time: 0.99328613
+      value: 0.537735
+      inSlope: 0.21346478
+      outSlope: 0.21346478
       tangentMode: 34
       weightedMode: 0
       inWeight: 0.33333334
