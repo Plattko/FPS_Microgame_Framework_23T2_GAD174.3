@@ -54,11 +54,11 @@ MonoBehaviour:
   WeaponName: Disc Launcher
   WeaponIcon: {fileID: 21300000, guid: cab1398a10b307b44b0ffeb0eef23254, type: 3}
   CrosshairDataDefault:
-    CrosshairSprite: {fileID: 21300000, guid: 14aa1febcf423c84997aa10d7ff64d17, type: 3}
+    CrosshairSprite: {fileID: 21300000, guid: b9f85e273d0b5134f9ef983921bc82ac, type: 3}
     CrosshairSize: 100
     CrosshairColor: {r: 0, g: 1, b: 0.49271274, a: 0.3764706}
   CrosshairDataTargetInSight:
-    CrosshairSprite: {fileID: 21300000, guid: 14aa1febcf423c84997aa10d7ff64d17, type: 3}
+    CrosshairSprite: {fileID: 21300000, guid: b9f85e273d0b5134f9ef983921bc82ac, type: 3}
     CrosshairSize: 100
     CrosshairColor: {r: 0, g: 1, b: 0.4226508, a: 1}
   WeaponRoot: {fileID: 5646165488041817916}
