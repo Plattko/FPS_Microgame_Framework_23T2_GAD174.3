@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 460513782864160261}
   m_Layer: 0
-  m_Name: Floor_Altar
+  m_Name: Corridor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

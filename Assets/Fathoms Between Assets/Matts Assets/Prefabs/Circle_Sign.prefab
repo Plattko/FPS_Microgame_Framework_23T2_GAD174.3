@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3908860940068442143}
   m_Layer: 0
-  m_Name: Circular sign
+  m_Name: Circle_Sign
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

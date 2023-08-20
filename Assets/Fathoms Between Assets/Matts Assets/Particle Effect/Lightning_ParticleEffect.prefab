@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 7725953085734032463}
   - component: {fileID: 429784607681867957}
   m_Layer: 0
-  m_Name: lightning particle effect
+  m_Name: Lightning_ParticleEffect
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
