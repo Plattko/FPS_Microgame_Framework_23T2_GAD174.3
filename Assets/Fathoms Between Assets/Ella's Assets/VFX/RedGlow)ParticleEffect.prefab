@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 8073194392930754030}
   - component: {fileID: 4525760785897096682}
   m_Layer: 0
-  m_Name: ShotgunParticle
+  m_Name: RedGlow)ParticleEffect
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

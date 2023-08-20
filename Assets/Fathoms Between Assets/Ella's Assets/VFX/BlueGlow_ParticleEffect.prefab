@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 1263575080430485659}
   - component: {fileID: 1805576864896853499}
   m_Layer: 0
-  m_Name: BlasterParticle
+  m_Name: BlueGlow_ParticleEffect
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

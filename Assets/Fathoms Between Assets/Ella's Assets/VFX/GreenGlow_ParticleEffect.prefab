@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 437954836886570984}
   - component: {fileID: 2852266879506500150}
   m_Layer: 0
-  m_Name: LauncherParticles
+  m_Name: GreenGlow_ParticleEffect
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
